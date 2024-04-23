@@ -1,2 +1,2 @@
 # CTA-Strategy
-This strategy targets China's futures market, analyzing sectors like metals, energy, agriculture, and precious metals. It uses four factors—momentum in time series, cross-sectional momentum, term structure, and volume of positions—to predict prices and trade for liquid commodities.
+This strategy is primarily aimed at the Chinese futures market, conducting research across various sectors including black metals, non-ferrous metals, energy and chemicals, agricultural products, precious metals, and stock indices. It employs four factors: momentum in time series, cross-sectional momentum, term structure, and position holding volume, to predict prices and conduct trades for commodities with good liquidity within different sectors.
